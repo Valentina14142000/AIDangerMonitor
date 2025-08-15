@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);
+    color: white;
+  }
+  
+  .auth-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+  }
+  
+  input, button {
+    margin: 10px;
+    padding: 12px;
+    border-radius: 6px;
+    font-size: 1rem;
+    border: none;
+  }
+  
+  button {
+    background: #1abc9c;
+    color: white;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+  }
+  
+  button:hover {
+    transform: scale(1.05);
+  }
+  
+  h1, h2 {
+    margin-bottom: 1rem;
+  }
+  
+
