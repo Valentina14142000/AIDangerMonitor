@@ -77,8 +77,8 @@ This project presents an **AI-powered mobile security and monitoring system** de
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Valentina14142000
+cd https://github.com/Valentina14142000/AIDangerMonitor
 ```
 
 ## Backend Setup
@@ -136,6 +136,7 @@ docker-compose up --build
 ##  Author
 
 Valentina Yuda Kiyungi
+
 Graduation Thesis Project – 2025
 
 ---
