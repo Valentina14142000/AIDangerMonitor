@@ -143,7 +143,7 @@ Graduation Thesis Project – 2025
 
 ##  License
 
-This project is for academic and research purposes. Please refer to the publication for citation and usage guidelines.
+This project is for academic and research purposes but can also be enhanced in the future for the real-time usage. Please refer to the publication for citation and usage guidelines.
 
 ---
 
