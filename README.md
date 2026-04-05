@@ -92,7 +92,7 @@ uvicorn main:app --reload
 ## Frontend Setup
 
 ```bash
-cd mobile-app
+cd AI_Danger_monitor
 npm install
 npm start
 ```
