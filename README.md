@@ -74,35 +74,6 @@ This project presents an **AI-powered mobile security and monitoring system** de
 * Docker & Docker Compose
 * PostgreSQL
 
-## Clone the Repository
-
-```bash
-git clone https://github.com/Valentina14142000
-cd https://github.com/Valentina14142000/AIDangerMonitor
-```
-
-## Backend Setup
-
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-## Frontend Setup
-
-```bash
-cd AI_Danger_monitor
-npm install
-npm start
-```
-
-## Docker Deployment
-
-```bash
-docker-compose up --build
-```
-
 ---
 
 ##  Usage
