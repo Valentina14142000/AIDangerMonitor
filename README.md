@@ -1,6 +1,6 @@
 # AI-Powered Security & Monitoring Mobile Application
 
-**Graduation Thesis (2025)
+Graduation Thesis (2025)
 
 **Publication:** https://zenodo.org/records/17795540
 
